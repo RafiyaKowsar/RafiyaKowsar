@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SK RafiyaKowsar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStcak Developer Python from India</h3>
 
 - 🔭 I’m currently working on **trainingmug platform**
 
